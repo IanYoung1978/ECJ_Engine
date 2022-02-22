@@ -1,0 +1,6 @@
+public enum ECJ_WindowSettings {
+    WINDOW_MAXIMIZED,
+    WINDOW_MINIMIZED,
+    WINDOW_BORDERLESS,
+    WINDOW_BORDERED
+}
